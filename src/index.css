@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-bebas-neue: "Bebas Neue";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-base: 20px;
+  --font-size-lg: 28px;
+  --font-size-xl: 30px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-royalblue: #1866dc;
+
+  /* border radiuses */
+  --br-md: 5px;
+}
